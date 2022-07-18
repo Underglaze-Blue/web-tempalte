@@ -12,3 +12,10 @@
 2. animate.min.css
 3. jquery.fullpage.min.css
 4. swiper.min.css
+
+## fullpage 相关
+
+1. parallaxKey: 'YWx2YXJvdHJpZ28uY29tXzlNZGNHRnlZV3hzWVhnPTFyRQ=='
+2. licenseKey: 'eeeeeeee-eeeeeeee-eeeeeeee-eeeeeeee'
+
+> licenseKey 符合 
