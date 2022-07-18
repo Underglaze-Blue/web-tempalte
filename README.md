@@ -18,4 +18,4 @@
 1. parallaxKey: 'YWx2YXJvdHJpZ28uY29tXzlNZGNHRnlZV3hzWVhnPTFyRQ=='
 2. licenseKey: 'eeeeeeee-eeeeeeee-eeeeeeee-eeeeeeee'
 
-> licenseKey 符合 
+> licenseKey 符合 `([\d\w]{8}-){3}[\d\w]{8}|^(?=.*?[A-Y])(?=.*?[a-y])(?=.*?[0-8])(?=.*?[#?!@$%^&*-]).{8,}$` 即可
